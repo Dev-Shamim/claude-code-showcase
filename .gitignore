@@ -11,8 +11,8 @@ build/
 .env.*.local
 
 # IDE
+temp_auto_push.bat
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -25,3 +25,4 @@ Thumbs.db
 .claude/user-team-info.json
 .claude/tasks/
 CLAUDE.local.md
+temp_interactive_push.bat
